@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bmohsen
 - 👀 I’m interested in Books, Movies and Cutting Edge tech
-- 💪 My Skills:
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,php,laravel,python,flask,nodejs,react,nextjs,expressjs,nestjs,mysql,git)](https://skillicons.dev)
+- 💪 My Skills and toolset:
+- [![My Skills](https://skillicons.dev/icons?i=git,js,html,css,tailwind,bootstrap,php,laravel,python,flask,nodejs,react,nextjs,expressjs,nestjs,mysql,redis,mongodb,docker)](https://skillicons.dev)
 - 🌱 I’m currently learning Rust 🦀  
 - ![Rust](https://skillicons.dev/icons?i=rust)
 - 📫 How to reach me: 
